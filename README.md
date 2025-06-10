@@ -1,4 +1,6 @@
 # Zapret VPN
+![image](https://github.com/user-attachments/assets/3b8151f1-0d8a-41b3-b3cc-28b361b931ce)
+
 Запрет ВПН (Запрет: обход блокировки Дискорда и Ютуба) - новый мощный VPN проект.
 
 ## 1. Что это такое?
