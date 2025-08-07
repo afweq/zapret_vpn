@@ -30,6 +30,6 @@
 
 Выберите режим `Proxy`:
 
-![image](https://github.com/user-attachments/assets/1449196e-3479-47f5-905d-fd2710b74dca)
+<img width="240" height="315" alt="image" src="https://github.com/user-attachments/assets/d602a4ea-1acc-4d7e-87da-11c1ec9ba5fe" />
 
 Если нужно выйти из режима `Proxy` выберите `Direct`
