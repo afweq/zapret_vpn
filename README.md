@@ -26,7 +26,7 @@
 
 Введите заданный прокси (`127.0.0.1` и порт `18080`) (_тип оставьте `HTTP`_):
 
-![image](https://github.com/user-attachments/assets/82e98b91-2f7a-4ce8-9db0-44f6ccef9a50)
+<img width="902" height="266" alt="image" src="https://github.com/user-attachments/assets/2fad2e90-e6e5-4f4c-8716-42aec1bf9a58" />
 
 Выберите режим `Proxy`:
 
