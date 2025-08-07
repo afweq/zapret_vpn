@@ -22,7 +22,7 @@
 ### 2.3. Настройте расширение
 Откройте настройки:
 
-![image](https://github.com/user-attachments/assets/130ae337-7c04-4dc0-a154-7011a414e77d)
+<img width="271" height="310" alt="image" src="https://github.com/user-attachments/assets/21a60159-8edf-42da-8443-904312b8410f" />
 
 Введите заданный прокси (`127.0.0.1` и порт `18080`) (_тип оставьте `HTTP`_):
 
