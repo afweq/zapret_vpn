@@ -33,3 +33,7 @@
 <img width="240" height="315" alt="image" src="https://github.com/user-attachments/assets/d602a4ea-1acc-4d7e-87da-11c1ec9ba5fe" />
 
 Если нужно выйти из режима `Proxy` выберите `Direct`
+
+---------
+
+Если нужно настроить ток на определенные домены, настройка аналогична Роскомфри, [подробнее здесь](https://github.com/youtubediscord/roskomfree?tab=readme-ov-file#23-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%82%D0%B5-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5).
