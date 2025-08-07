@@ -20,7 +20,7 @@
 - Для Firefox https://addons.mozilla.org/en-US/firefox/addon/zeroomega/
 
 ### 2.3. Настройте расширение
-Откройте настройки:
+Откройте настройки через главное меню программы:
 
 <img width="271" height="310" alt="image" src="https://github.com/user-attachments/assets/21a60159-8edf-42da-8443-904312b8410f" />
 
@@ -28,7 +28,7 @@
 
 <img width="902" height="266" alt="image" src="https://github.com/user-attachments/assets/2fad2e90-e6e5-4f4c-8716-42aec1bf9a58" />
 
-Выберите режим `Proxy`:
+Выберите режим `Proxy` в главном меню программы (или то как вы назвали свой **ПРОФИЛЬ** прокси):
 
 <img width="240" height="315" alt="image" src="https://github.com/user-attachments/assets/d602a4ea-1acc-4d7e-87da-11c1ec9ba5fe" />
 
